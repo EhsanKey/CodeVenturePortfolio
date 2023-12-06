@@ -4,18 +4,18 @@
 
 ### Technologies I Work With:
 
-![](/public/icons/32*32/js.svg)
-![](/public/icons/32*32/ts.svg)
-![](/public/icons/32*32/react.svg)
-![](/public/icons/32*32/next.svg)
-![](/public/icons/32*32/socket.svg)
-![](/public/icons/32*32/redux.svg)
-![](/public/icons/32*32/graphQl.svg)
-![](/public/icons/32*32/api.svg)
-![](/public/icons/32*32/tailwindcss.svg)
-![](/public/icons/32*32/mui.svg)
-![](/public/icons/32*32/html.svg)
-![](/public/icons/32*32/css.svg)
+![](/public/assets/32*32/js.svg)
+![](/public/assets/32*32/ts.svg)
+![](/public/assets/32*32/react.svg)
+![](/public/assets/32*32/next.svg)
+![](/public/assets/32*32/socket.svg)
+![](/public/assets/32*32/redux.svg)
+![](/public/assets/32*32/graphQl.svg)
+![](/public/assets/32*32/api.svg)
+![](/public/assets/32*32/tailwindcss.svg)
+![](/public/assets/32*32/mui.svg)
+![](/public/assets/32*32/html.svg)
+![](/public/assets/32*32/css.svg)
 
 ### Connect with Me:
 
@@ -24,6 +24,7 @@
 
 
 [🔗 Guide to My Programming Journal](#programming-journal)
+1. [Tailwind Avatar Optimization](/posts/TailwindAvatarOptimization.md)
 
 
 
