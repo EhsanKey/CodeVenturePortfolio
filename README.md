@@ -19,8 +19,8 @@
 
 ### Connect with Me:
 
-[![GitHub](/public/icons/32*32/github.svg)](https://github.com/EhsanKey)
-[![Linkedin](/public/icons/32*32/linkedin.svg)](https://www.linkedin.com/in/ehsankey)
+[![GitHub](/public/assets/32*32/github.svg)](https://github.com/EhsanKey)
+[![Linkedin](/public/assets/32*32/linkedin.svg)](https://www.linkedin.com/in/ehsankey)
 
 
 [🔗 Guide to My Programming Journal](#programming-journal)
