@@ -1,9 +1,9 @@
 سلام دوستان، امیدوارم حالتون خوب باشه.
 
-برای اطلاعات بیشتر در مورد دلیل نوشتن این بخش، به [پست لینکدین من](https://www.linkedin.com/in/ehsankey) مراجعه کنید. همچنین ریپازیتوری گیت‌هاب این سورس رو [اینجا](https://github.com/EhsanKey/reverse-number-string) می تونید داشته باشید.
+برای اطلاعات بیشتر در مورد دلیل نوشتن این بخش، به [پست لینکدین من](https://www.linkedin.com/posts/ehsankey_%DA%86%D9%86%D8%AF-%D9%88%D9%82%D8%AA-%D9%BE%DB%8C%D8%B4-%D8%A8%D9%87-%DB%8C%DA%A9%DB%8C-%D8%A7%D8%B2-%D8%AF%D9%88%D8%B3%D8%AA%D8%A7%D9%85-%D8%B2%D9%86%DA%AF-%D8%B2%D8%AF%D9%85-%D9%88-%DA%AF%D9%81%D8%AA%D9%85-activity-7138535756389650432-AtFl?utm_source=share&utm_medium=member_android) مراجعه کنید. همچنین ریپازیتوری گیت‌هاب این سورس رو [اینجا](https://github.com/EhsanKey/reverse-number-string) می تونید داشته باشید.
 
 [![GitHub](/public/assets/32*32/github.svg)](https://github.com/EhsanKey/reverse-number-string)
-[![Linkedin](/public/assets/32*32/linkedin.svg)](https://www.linkedin.com/in/ehsankey)
+[![Linkedin](/public/assets/32*32/linkedin.svg)](https://www.linkedin.com/posts/ehsankey_%DA%86%D9%86%D8%AF-%D9%88%D9%82%D8%AA-%D9%BE%DB%8C%D8%B4-%D8%A8%D9%87-%DB%8C%DA%A9%DB%8C-%D8%A7%D8%B2-%D8%AF%D9%88%D8%B3%D8%AA%D8%A7%D9%85-%D8%B2%D9%86%DA%AF-%D8%B2%D8%AF%D9%85-%D9%88-%DA%AF%D9%81%D8%AA%D9%85-activity-7138535756389650432-AtFl?utm_source=share&utm_medium=member_android)
 
 
 ## ورودی ما
@@ -73,7 +73,7 @@ const inversNumber = (text) => {
             reversedText += char;
         }
     }
-    
+
     // در صورتی که ورودی قثط عدد باشد دستور else داخل حلقه بالا اجرا نمی شود 
     // و در نهایت اگر currentNumber شامل اعداد بود آن را معکوس و 
     // نتیجه ش رو به reversedText اضافه کن
